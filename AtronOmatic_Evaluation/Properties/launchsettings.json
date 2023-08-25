@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "AtronOmatic_Evaluation (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "AtronOmatic_Evaluation (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
